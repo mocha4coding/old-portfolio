@@ -22,7 +22,9 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body {
+    background: #bff542;
+}
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -180,7 +182,9 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+    ul#nav li.current a {
+        color: #dee825;
+    }
 
 
 /* ------------------------------------------------------------------ */
